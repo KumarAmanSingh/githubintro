@@ -1,0 +1,7 @@
+list:
+
+apple
+oranges
+banana
+cherries
+carrots
